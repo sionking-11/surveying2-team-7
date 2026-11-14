@@ -67,7 +67,7 @@ badge: "7조 프로젝트 초안"
   - 김정호, 최송현, 최인태, 양순자, 이상철 (2011). 부산 금정산 범어사계곡 낙엽활엽수림의 식생구조. 한국환경생태학회지, 25(4), 581–589.
   - Zhang, X., Wang, X., Zohner, C. M., Peñuelas, J., et al. (2025). Declining precipitation frequency may drive earlier leaf senescence by intensifying drought stress and enhancing drought acclimation. *Nature Communications*, 16, 910. https://doi.org/10.1038/s41467-025-56159-4
   - YTN (2026.10.30). 북한산 단풍 절정인데...말라붙은 잎에 '조기 낙엽'까지.
-  - 부산일보 (2026.10). 기사 제목·날짜 확인 후 추가 예정.
+  - 천영철 (2026.10.26). [밀물썰물] '조기 낙엽'이 던진 숙제. 부산일보. https://www.busan.com/view/busan/view.php?code=2026102618013921999
 
 [7조 GitHub 저장소](https://github.com/woo0754-hash/surveying2-team-7) · [수업 게시판](https://wonk19.github.io/class2026_02_surveying2/board.html) · [교수님 원본 템플릿](https://github.com/wonk19/class2026_02_surveying2)
 
